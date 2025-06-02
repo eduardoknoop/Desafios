@@ -1,4 +1,4 @@
-# ***Desafios JS***
+# ***Desafio lista no JS***
 - Crie uma lista vazia, com o nome listaGenerica.
 - Crie uma lista de linguagens de programação chamada linguagensDeProgramacao com os seguintes elementos: 'JavaScript','C','C++', 'Kotlin' e 'Python'.
 - Adicione à lista linguagensDeProgramacao os seguintes elementos: 'Java', 'Ruby' e 'GoLang'.
